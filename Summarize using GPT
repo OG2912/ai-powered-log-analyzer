@@ -1,0 +1,1 @@
+python3 ai_log_analyzer.py --file /path/to/logfile.log --summarize --api-key YOUR_OPENAI_API_KEY
